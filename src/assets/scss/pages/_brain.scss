@@ -1,0 +1,23 @@
+.brain {
+    height: 100%;
+    background-color: #f5f5f5;
+    padding: 32px;
+
+    &-add {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    &-add-title {
+        font-size: 24px;
+        font-weight: 500;
+    }
+
+    &-add-btn {
+        padding: 12px 30px;
+        background-color: #184062;
+        color: white;
+        border-radius: 6px;
+    }
+}
