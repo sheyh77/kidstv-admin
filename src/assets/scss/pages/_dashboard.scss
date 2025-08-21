@@ -3,6 +3,12 @@
     background-color: #f5f5f5;
     padding: 32px;
 
+    &-about {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
     &-title {
         font-size: 24px;
         font-weight: 400;
