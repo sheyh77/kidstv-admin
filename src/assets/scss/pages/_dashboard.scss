@@ -12,6 +12,12 @@
         justify-content: space-between;
     }
 
+    &-about {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
     &-title {
         font-size: 24px;
         font-weight: 400;
