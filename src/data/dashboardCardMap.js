@@ -5,11 +5,6 @@ export const dashboardCardMap = [
         users_num: 1,
     },
     {
-        id: 2,
-        title: "Multfilm soni",
-        users_num: 20,
-    },
-    {
         id: 3,
         title: "Bo'limlar soni",
         users_num: 1,

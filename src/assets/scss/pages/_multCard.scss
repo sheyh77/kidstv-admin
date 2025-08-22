@@ -104,10 +104,15 @@
             color: white;
             border-bottom: 1px solid white;
             letter-spacing: 1px;
+            padding-left: 12px;
         }
     }
 
     &-add-menu-input::placeholder {
+        color: black;
+    }
+
+    &-add-menu-input:hover {
         color: black;
     }
 
